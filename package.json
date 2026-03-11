@@ -1,0 +1,24 @@
+{
+  "name": "watch-tier-list",
+  "version": "1.0.0",
+  "description": "An interactive watch brand tier list with three dimensions: tier (S-F), cost, and community sentiment.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "vite build && gh-pages -d dist"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.0",
+    "gh-pages": "^6.3.0"
+  },
+  "keywords": ["watches", "tier-list", "horology", "react"],
+  "license": "MIT",
+  "homepage": "https://YOUR_USERNAME.github.io/watch-tier-list"
+}

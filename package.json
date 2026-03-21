@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^6.0.0",
-    "vite": "^6.0.0",
+    "vite": "^8.0.0",
     "gh-pages": "^6.3.0"
   },
   "keywords": ["watches", "tier-list", "horology", "react"],
